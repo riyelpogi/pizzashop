@@ -1,0 +1,1 @@
+<img src="/storage/pizza/logo-removebg-preview.png" class="w-32 h-32" alt="">
